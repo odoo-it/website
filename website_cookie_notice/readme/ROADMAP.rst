@@ -5,4 +5,3 @@ Future plans :
 * Disable non-required cookies by default and only enable if the user has accepted
 * Adapt cookie notice message accordingly
 * Set cookies for acceptance of each category
-
